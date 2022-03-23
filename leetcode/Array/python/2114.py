@@ -7,6 +7,7 @@ class Solution(object):
         max_words = 0  # Initialize max word count to 0
         for i in sentences:  # Loop through the for loop
             #  Split and save its length to avoid splitting again, making the code faster at the cost of memory
+            # can be replaced with i.count(" ") + 1 to improve memory at the cost of speed
             word_count = len(i.split(" "))
             if word_count > max_words:  # If the word count is higher than max_words, override it
                 max_words = word_count
