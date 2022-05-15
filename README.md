@@ -1,16 +1,18 @@
 # OSS - Open Source Solutions
 ## Welcome to OSS! 
 ## ***Overview*** 
-* OSS is a repo dedicated to providing high quality solutions to the many coding challenges 
-* Every solution is annotated with notes and also linked with step by step explanations including summaries
+* OSS is a repo dedicated to providing high quality solutions to the many coding challenges on the internet.
+* Every solution is annotated with notes and also linked with step by step explanations including summaries.
 * This repo is pushing to include solutions using all programming languages!
 * Please feel free to contribute to this project by requesting to add your own solutions, notes, and explanation!
 * Please read [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md).
 ## Current Supported Languages:
 <p align="left">
+  
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="36" height="36" alt="C" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
 </p>
   
 ## Current Updates:
